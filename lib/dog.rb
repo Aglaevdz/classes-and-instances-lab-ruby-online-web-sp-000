@@ -1,4 +1,5 @@
 class Dog
+  Dog = yorkie
 end
 
 fido = Dog.new
